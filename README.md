@@ -1,11 +1,12 @@
-# **Vasily Bakshaev**  
+# **Hi there, I'm Vasily!**  
 - 🚀 Python and ML enthusiast.
-- 📖 Currently developing in the field of neural networks.
+- 📖 Currently developing in the field of deep learning.
 
 ### 📚 Some of my Projects
 
 |Title | Description | Methods/skills|
 |--|--|--|
+| [Damaged car detection app](https://github.com/VasilyBakshaev/Damaged_car_detection) | A streamlit application and telegram bot that determines the probability that a damaged car is depicted in a photo.| ![Streamlit](https://img.shields.io/badge/Streamlit-B4F0D4) ![DeepLearning](https://img.shields.io/badge/DeepLearning-8FBA9E) <br /> ![CV](https://img.shields.io/badge/CV-96948F) ![Telebot](https://img.shields.io/badge/Telebot-749DD3)|
 | [Telecom](https://github.com/VasilyBakshaev/Telecom) | Customer Churn Prediction| ![Pandas](https://img.shields.io/badge/Pandas-DBA9CE) ![NumPy](https://img.shields.io/badge/NumPy-9292C2) <br /> ![Sklearn](https://img.shields.io/badge/Sklearn-F28589) ![CatBoost](https://img.shields.io/badge/CatBoost-767FA6) <br /> ![OHE](https://img.shields.io/badge/OHE-58949C)|
 | [Borrower Reliability](https://github.com/VasilyBakshaev/Borrower_Reliability) | Research on the Dependence of Borrower Reliability on Certain Factors | ![Pandas](https://img.shields.io/badge/Pandas-DBA9CE) ![NumPy](https://img.shields.io/badge/NumPy-9292C2) <br /> ![Seaborn](https://img.shields.io/badge/Seaborn-9ABBD9) ![Lemmatization](https://img.shields.io/badge/Lemmatization-D1E5AE) |
 | [Car Prices](https://github.com/VasilyBakshaev/Car_Prices) | Training a model to predict car prices| ![Pandas](https://img.shields.io/badge/Pandas-DBA9CE) ![NumPy](https://img.shields.io/badge/NumPy-9292C2) <br /> ![Seaborn](https://img.shields.io/badge/Seaborn-9ABBD9) ![Sklearn](https://img.shields.io/badge/Sklearn-F28589) <br /> ![CatBoost](https://img.shields.io/badge/CatBoost-767FA6) ![LightGBM](https://img.shields.io/badge/LightGBM-F692BC)|
